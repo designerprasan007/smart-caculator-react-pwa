@@ -1,0 +1,15 @@
+.dark-mode{
+    background-color: black;
+    color: white;
+    height: 97.5vh;
+    width: 100%;
+  }
+  .white-mode{
+    background-color: white;
+    color: black;
+    height: 97.5vh;
+    width: 100%;
+  }
+  .CalcUpper{
+    height: 40%;
+  }

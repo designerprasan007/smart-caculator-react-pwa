@@ -1,0 +1,11 @@
+.heroResultDiv{
+    position: relative;
+    height: 80%;
+    font-family: 'Lato', sans-serif;
+}
+.subHeroResult{
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    text-align: right;
+}

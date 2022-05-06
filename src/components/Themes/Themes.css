@@ -1,0 +1,22 @@
+.themeHeroDivDark{
+    text-align: center;
+    width: 120px;
+    margin: auto;
+    border: 1px solid;
+    background-color: #2A2D37;
+    color: black;
+}
+.themeHeroDivWhite{
+    text-align: center;
+    width: 120px;
+    margin: auto;
+    border: 1px solid;
+    background-color: #F9F9F9;
+    color: white;
+}
+.themeChildHero > svg{
+    margin: 10px;
+}
+.activeTheme{
+    color: #DD6B20;
+}
